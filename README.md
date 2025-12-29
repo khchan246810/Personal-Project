@@ -1,2 +1,2 @@
-# 6001CEM
+# Personal Project
 My own personal project
